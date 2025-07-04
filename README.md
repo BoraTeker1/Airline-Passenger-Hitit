@@ -6,6 +6,8 @@
 
   3)create virtual environment
 
-  4)pip install requirements
+  4)activate
+  
+  5)pip install requirements
 
-  5)activate
+
